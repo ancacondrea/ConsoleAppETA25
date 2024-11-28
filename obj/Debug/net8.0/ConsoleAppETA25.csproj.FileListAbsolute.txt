@@ -1,0 +1,15 @@
+C:\Users\anroman\source\repos\ConsoleAppETA25\bin\Debug\net8.0\ConsoleAppETA25.exe
+C:\Users\anroman\source\repos\ConsoleAppETA25\bin\Debug\net8.0\ConsoleAppETA25.deps.json
+C:\Users\anroman\source\repos\ConsoleAppETA25\bin\Debug\net8.0\ConsoleAppETA25.runtimeconfig.json
+C:\Users\anroman\source\repos\ConsoleAppETA25\bin\Debug\net8.0\ConsoleAppETA25.dll
+C:\Users\anroman\source\repos\ConsoleAppETA25\bin\Debug\net8.0\ConsoleAppETA25.pdb
+C:\Users\anroman\source\repos\ConsoleAppETA25\obj\Debug\net8.0\ConsoleAppETA25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anroman\source\repos\ConsoleAppETA25\obj\Debug\net8.0\ConsoleAppETA25.AssemblyInfoInputs.cache
+C:\Users\anroman\source\repos\ConsoleAppETA25\obj\Debug\net8.0\ConsoleAppETA25.AssemblyInfo.cs
+C:\Users\anroman\source\repos\ConsoleAppETA25\obj\Debug\net8.0\ConsoleAppETA25.csproj.CoreCompileInputs.cache
+C:\Users\anroman\source\repos\ConsoleAppETA25\obj\Debug\net8.0\ConsoleAppETA25.sourcelink.json
+C:\Users\anroman\source\repos\ConsoleAppETA25\obj\Debug\net8.0\ConsoleAppETA25.dll
+C:\Users\anroman\source\repos\ConsoleAppETA25\obj\Debug\net8.0\refint\ConsoleAppETA25.dll
+C:\Users\anroman\source\repos\ConsoleAppETA25\obj\Debug\net8.0\ConsoleAppETA25.pdb
+C:\Users\anroman\source\repos\ConsoleAppETA25\obj\Debug\net8.0\ConsoleAppETA25.genruntimeconfig.cache
+C:\Users\anroman\source\repos\ConsoleAppETA25\obj\Debug\net8.0\ref\ConsoleAppETA25.dll
